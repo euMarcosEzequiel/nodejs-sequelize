@@ -1,0 +1,8 @@
+# Ignorar a pasta node_modules
+node_modules/
+
+# Ignorar arquivos de build
+/dist
+
+# Ignorar configurações de IDE
+.vscode/
